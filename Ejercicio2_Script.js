@@ -6,7 +6,7 @@
 
 const pi = Math.PI;
 var radio = prompt("Ingrese el valor del radio");
-var area = pi* Math.pow(radio,2);
+var area = pi * Math.pow(radio, 2);
 var perimetro = 2 * pi * radio;
-alert("El Area de tu circunferencia es: " + area );
+alert("El Area de tu circunferencia es: " + area);
 alert("El perimetro de tu circunferencia es: " + perimetro);

@@ -3,8 +3,9 @@
 
 var rta = prompt("Ingrese su edad");
 
-if(rta >= 18){
+if (rta >= 18) {
     alert("usted es Mayor de edad");
-} else{
+} else {
     alert("Usted es un wachin");
 }
+
